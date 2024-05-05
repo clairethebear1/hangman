@@ -115,9 +115,10 @@ while (amount_of_times_wrong != 6 and current_letters_right != length_of_word_to
         printLines()
 
 print("Game is over! Thanks for playing :)")
-print("Here is the word since you were too dumb to guess it:", randomWord)
+print("Here is the word:", randomWord)
 
     
+
 
 
 
